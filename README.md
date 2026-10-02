@@ -27,6 +27,7 @@ Trabalhos e atividades realizados na aula de informática aplicada a logística
 
 #### 4. Análise de Habilitações (CNH - São Paulo)
 - **Objetivo:** Estudo descritivo e análise de dados sobre a distribuição e perfil das CNHs registradas no estado de São Paulo.
+- **Entregáveis:** Métricas e insights sobre a base de condutores paulistas.
 
 <img width="1430" height="802" alt="image" src="https://github.com/user-attachments/assets/92300bb5-0d10-412a-8356-eae0229d2879" />
 
