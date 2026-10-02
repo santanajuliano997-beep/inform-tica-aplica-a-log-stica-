@@ -4,7 +4,7 @@
 Trabalhos e atividades realizados na aula de informática aplicada a logística
 
 
-Foi realizado um tratamento dos dados abertos ANTT sobre as operadoras de transporte multimodais licenciadas no Brasil, colocando todas as informações em planilhas e em gráficos.
+Foi realizado um tratamento dos dados abertos ANTT sobre as operadoras de transporte multimodais licenciadas no Brasil, colocando todas as informações em planilhas e em gráficos no Excel.
 
 <img width="567" height="428" alt="image" src="https://github.com/user-attachments/assets/1ae7015d-71c1-4502-af77-88cf8896b0d6" />
 
