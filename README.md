@@ -11,6 +11,11 @@
 `Excel` | `Power BI` | `Análise de Dados`
 
 
+### 🛠️ Ferramentas Utilizadas
+- **Excel:** Tratamento de dados, fórmulas, tabelas dinâmicas e gráficos.
+- **Power BI:** Modelagem de dados e relatórios interativos.
+
+
 #### 1. Tratamento de Dados Abertos (ANTT - Transporte Multimodal)
 - **Objetivo:** Coleta e tratamento de dados públicos da ANTT referentes a empresas multimodais.
 - **Entregáveis:** Planilhas estruturadas e gráficos dinâmicos desenvolvidos no Excel.
@@ -39,10 +44,6 @@
 
 <img width="1430" height="802" alt="image" src="https://github.com/user-attachments/assets/92300bb5-0d10-412a-8356-eae0229d2879" />
 
-
-### 🛠️ Ferramentas Utilizadas
-- **Excel:** Tratamento de dados, fórmulas, tabelas dinâmicas e gráficos.
-- **Power BI:** Modelagem de dados e relatórios interativos.
 
 
 
