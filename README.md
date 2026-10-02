@@ -8,7 +8,7 @@
 3. **Censo 2022 - Comunidades em SP (Excel):** Análise exploratória no Excel para apurar densidade populacional e ranking de municípios em favelas/comunidades paulistas.
 4. **Perfil de CNH em SP:** Análise descritiva dos dados de condutores/habilitações do estado de São Paulo.
 
-**Tecnologias:** `Excel` | `Power BI` | `Análise de Dados`
+`Excel` | `Power BI` | `Análise de Dados`
 
 
 #### 1. Tratamento de Dados Abertos (ANTT - Transporte Multimodal)
