@@ -6,23 +6,27 @@ Trabalhos e atividades realizados na aula de informática aplicada a logística
 #### 1. Tratamento de Dados Abertos (ANTT - Transporte Multimodal)
 - **Objetivo:** Coleta e tratamento de dados públicos da ANTT referentes a empresas multimodais.
 - **Entregáveis:** Planilhas estruturadas e gráficos dinâmicos desenvolvidos no Excel.
-Foi realizado um tratamento dos dados abertos ANTT sobre as operadoras de transporte multimodais licenciadas no Brasil, colocando todas as informações em planilhas e em gráficos no Excel.
 
 <img width="567" height="428" alt="image" src="https://github.com/user-attachments/assets/1ae7015d-71c1-4502-af77-88cf8896b0d6" />
 
 
-Através dos dados tratados da ANTT sobre as empresas multimodais habilitadas, foi realizado uma visualização no Power BI.
+#### 2. Dashboard do Transportes Multimodais no Power BI
+- **Objetivo:** Criação de visualizações interativas a partir da base tratada na Atividade 1.
+- **Entregáveis:** Relatório no Power BI permitindo análise visual detalhada das empresas e dados do setor.
 
 <img width="1316" height="738" alt="image" src="https://github.com/user-attachments/assets/63d869b5-0be8-4659-b765-69dd302d8c23" />
 
 
 
-Usando o Excel, trabalhando com fórmulas e gráficos, foi feita uma análise de Dados do Censo 2022 sobre favelas e comunidades urbanas no Estado de São Paulo e em seus municípios.
+#### 3. Análise do Censo 2022 (Favelas e Comunidades - SP)
+- **Objetivo:** Exploração dos dados do Censo 2022 focando nas favelas e comunidades do estado de São Paulo.
+- **Entregáveis:** Análise via Excel para responder a perguntas estratégicas, como densidade populacional e identificação dos municípios com maior população nessas áreas.
 
 <img width="610" height="673" alt="image" src="https://github.com/user-attachments/assets/98da4c3b-4c48-463a-a305-290c90cb7329" />
 
 
-Através do Power BI, foi realizado uma analise das emissões de CNH do estado de São Paulo até Junho de 2026.
+#### 4. Análise de Habilitações (CNH - São Paulo)
+- **Objetivo:** Estudo descritivo e análise de dados sobre a distribuição e perfil das CNHs registradas no estado de São Paulo.
 
 <img width="1430" height="802" alt="image" src="https://github.com/user-attachments/assets/92300bb5-0d10-412a-8356-eae0229d2879" />
 
