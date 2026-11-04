@@ -38,11 +38,32 @@
 <img width="610" height="673" alt="image" src="https://github.com/user-attachments/assets/98da4c3b-4c48-463a-a305-290c90cb7329" />
 
 
-#### 4. Análise de Habilitações (CNH - São Paulo)
+#### 4. Dashboard análise de Habilitações (CNH - São Paulo)
 - **Objetivo:** Estudo descritivo e análise de dados sobre a distribuição e perfil das CNHs registradas no estado de São Paulo.
 - **Entregáveis:** Métricas e insights sobre a base de condutores paulistas.
 
 <img width="1430" height="802" alt="image" src="https://github.com/user-attachments/assets/92300bb5-0d10-412a-8356-eae0229d2879" />
+
+
+#### 5. Dashboard com figuras análise de Habilitações (CNH - São Paulo)
+- **Objetivo:** Estudo descritivo e análise de dados sobre a distribuição e perfil das CNHs registradas no estado de São Paulo.
+- **Entregáveis:** Power BI com figuras para uma melhor visualização dos gêneros dos condutores do estado de SP.
+
+<img width="1430" height="798" alt="Captura de tela 2026-11-03 211700" src="https://github.com/user-attachments/assets/042d4de7-1b53-4600-9bbf-049eda5bed3e" />
+<img width="1426" height="795" alt="Captura de tela 2026-11-03 211719" src="https://github.com/user-attachments/assets/d65fac98-b18e-4107-a464-74b8636f99b6" />
+
+
+#### 6. Curso Aplicação do Power BI para Aprimoramento da Gestão com carga horária de 25 horas realizado pela ENAP.
+
+file:///D:/informatica/aplicacao_do_power_bi_para_aprimoramento_da_gestao_turma_out2026_certificado.pdf
+<img width="1116" height="791" alt="Captura de tela 2026-11-03 212850" src="https://github.com/user-attachments/assets/5c2936ea-6d04-41ca-91e8-1dd02736b2d1" />
+<img width="1118" height="790" alt="Captura de tela 2026-11-03 212902" src="https://github.com/user-attachments/assets/d74d068b-8bdd-43da-8ec2-1263b3a5ba90" />
+
+
+
+
+
+
 
 
 
