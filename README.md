@@ -17,7 +17,7 @@ Portfólio de projetos de análise de dados desenvolvidos na disciplina de **Inf
 | **MVP 2 — 2º Trimestre** | 5 | [Dashboard de CNH com figuras por gênero](#5-dashboard-com-figuras-análise-de-habilitações-cnh--sp) | Power BI |
 | | 6 | [Regressão linear: Excel × Google Colab (Sorvetes)](#6-regressão-linear-comparando-excel-e-google-colab) | Excel + Python |
 | | 7 | [Curso ENAP – Power BI para Gestão](#7-curso-aplicação-do-power-bi-para-aprimoramento-da-gestão--enap) | Certificado |
-| | 8 | [Regressão linear: horas de estudo × nota](#8-regressão-linear-no-excel-horas-de-estudo--nota) | Excel |
+| | 8 | [Regressão linear: horas de estudo × nota](#8-regressão-linear-no-excel-e-no-google-colab-horas-de-estudo--nota) | Excel + Python |
 | | 9 | [Prova: regressão idade ao casar (homens × mulheres)](#9-prova--regressão-linear-simples-idade-média-ao-casar) | Excel |
 | | 10 | [Prova: dashboard de investimentos](#10-prova--dashboard-de-investimentos) | Power BI |
 
@@ -117,19 +117,35 @@ Portfólio de projetos de análise de dados desenvolvidos na disciplina de **Inf
 <img width="1116" height="791" alt="Certificado ENAP 1" src="https://github.com/user-attachments/assets/5c2936ea-6d04-41ca-91e8-1dd02736b2d1" />
 <img width="1118" height="790" alt="Certificado ENAP 2" src="https://github.com/user-attachments/assets/d74d068b-8bdd-43da-8ec2-1263b3a5ba90" />
 
-#### 8. Regressão Linear no Excel: Horas de Estudo × Nota
-- **Objetivo:** treino para a prova. Verificar se mais horas de estudo levam a notas maiores usando regressão linear simples no Excel.
+#### 8. Regressão Linear no Excel e no Google Colab: Horas de Estudo × Nota
+- **Objetivo:** treino para a prova. Verificar se mais horas de estudo levam a notas maiores usando regressão linear simples, primeiro no Excel e depois em Python no Google Colab.
 - **Base:** 200 alunos, com horas de estudo, horas de sono, frequência, notas anteriores e nota da prova.
-- **Entregáveis:** planilha com coeficientes, qualidade do ajuste, teste de significância, notas previstas e resíduos.
+- **Entregáveis:**
+  - **Excel:** planilha com coeficientes, qualidade do ajuste, teste de significância, notas previstas e resíduos.
+  - **Google Colab:** notebook com análise exploratória, correlação de cada variável com a nota, reta de regressão, análise de resíduos, validação treino/teste (80/20), previsões e comparação com o Excel.
 - **Principais resultados:**
   - Equação: **Nota = 23,62 + 1,634 × Horas de estudo**
   - Cada hora a mais de estudo soma cerca de **1,63 ponto** na nota.
   - r = 0,777 e **R² = 0,603**: as horas de estudo explicam cerca de 60% da variação das notas.
   - t = 17,35 e valor-p ≈ 0: a relação é **positiva e estatisticamente significativa**.
   - Exemplo: com 10 h de estudo, a nota prevista é **≈ 39,96**.
-- **Arquivo:** [`regressao_horas_estudo_x_nota.xlsx`](regressao_horas_estudo_x_nota.xlsx)
+  - **Excel × Colab:** os coeficientes, r, R² e t são idênticos nas duas ferramentas.
+  - Horas de estudo é a variável mais ligada à nota (r = 0,78), à frente de notas anteriores (0,43), frequência (0,23) e horas de sono (0,19).
+  - Na validação com 20% dos alunos fora do treino: R² = 0,64 e erro médio (MAE) de cerca de 3,8 pontos.
+- **Arquivos:** [`regressao_horas_estudo_x_nota.xlsx`](regressao_horas_estudo_x_nota.xlsx), [`Regressao_Horas_Estudo_x_Nota.ipynb`](Regressao_Horas_Estudo_x_Nota.ipynb)
+- **Notebook no Colab:** [abrir no Google Colab](https://colab.research.google.com/drive/12TCjPSWjLeybqlg4MzVj136fUKNuBPg7)
 
-<img width="1919" height="1030" alt="Regressão horas x nota" src="https://github.com/user-attachments/assets/91ef388e-a5e9-4070-bc65-edfb1ff4ba1f" />
+**Excel**
+
+<img width="1919" height="1030" alt="Regressão horas x nota no Excel" src="https://github.com/user-attachments/assets/91ef388e-a5e9-4070-bc65-edfb1ff4ba1f" />
+
+**Google Colab**
+
+<img width="1919" alt="Colab: correlação das variáveis com a nota" src="imagens/regressao_horas_estudo/colab_1.png" />
+<img width="1919" alt="Colab: dispersão horas de estudo x nota" src="imagens/regressao_horas_estudo/colab_2.png" />
+<img width="1919" alt="Colab: reta de regressão" src="imagens/regressao_horas_estudo/colab_3.png" />
+<img width="1919" alt="Colab: análise dos resíduos" src="imagens/regressao_horas_estudo/colab_4.png" />
+<img width="1919" alt="Colab: previsões e conclusão" src="imagens/regressao_horas_estudo/colab_5.png" />
 
 #### 9. Prova – Regressão Linear Simples: Idade Média ao Casar
 - **Enunciado:** modelo de regressão linear simples com a idade média dos homens ao casar (x) e a idade média das mulheres ao casar (y).
