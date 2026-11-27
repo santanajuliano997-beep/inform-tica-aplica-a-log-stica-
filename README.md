@@ -17,9 +17,10 @@ Portfólio de projetos de análise de dados desenvolvidos na disciplina de **Inf
 | **MVP 2 — 2º Trimestre** | 5 | [Dashboard de CNH com figuras por gênero](#5-dashboard-com-figuras-análise-de-habilitações-cnh--sp) | Power BI |
 | | 6 | [Regressão linear: Excel × Google Colab (Sorvetes)](#6-regressão-linear-comparando-excel-e-google-colab) | Excel + Python |
 | | 7 | [Curso ENAP – Power BI para Gestão](#7-curso-aplicação-do-power-bi-para-aprimoramento-da-gestão--enap) | Certificado |
-| | 8 | [Regressão linear: horas de estudo × nota](#8-regressão-linear-no-excel-e-no-google-colab-horas-de-estudo--nota) | Excel + Python |
-| | 9 | [Prova: regressão idade ao casar (homens × mulheres)](#9-prova--regressão-linear-simples-idade-média-ao-casar) | Excel |
-| | 10 | [Prova: dashboard de investimentos](#10-prova--dashboard-de-investimentos) | Power BI |
+| | 8 | [Treino para a prova: dashboard de expectativa de vida](#8-treino-para-a-prova-dashboard-de-expectativa-de-vida) | Power BI |
+| | 9 | [Regressão linear: horas de estudo × nota](#9-regressão-linear-no-excel-e-no-google-colab-horas-de-estudo--nota) | Excel + Python |
+| | 10 | [Prova: regressão idade ao casar (homens × mulheres)](#10-prova--regressão-linear-simples-idade-média-ao-casar) | Excel |
+| | 11 | [Prova: dashboard de investimentos](#11-prova--dashboard-de-investimentos) | Power BI |
 
 ---
 
@@ -117,7 +118,25 @@ Portfólio de projetos de análise de dados desenvolvidos na disciplina de **Inf
 <img width="1116" height="791" alt="Certificado ENAP 1" src="https://github.com/user-attachments/assets/5c2936ea-6d04-41ca-91e8-1dd02736b2d1" />
 <img width="1118" height="790" alt="Certificado ENAP 2" src="https://github.com/user-attachments/assets/d74d068b-8bdd-43da-8ec2-1263b3a5ba90" />
 
-#### 8. Regressão Linear no Excel e no Google Colab: Horas de Estudo × Nota
+#### 8. Treino para a Prova: Dashboard de Expectativa de Vida
+- **Objetivo:** treino para a prova. Montar no Power BI um relatório com diferentes tipos de visualização para analisar a expectativa de vida pelo mundo ao longo do tempo.
+- **Base:** tabela `TabelaExpectativaVida`, com país/região (`Entity`), ano (`Year`) e expectativa de vida em anos (`Life expectancy (years)`), com registros desde o século XVI até os anos 2020.
+- **Entregáveis:** dashboard com quatro visualizações, todas usando a **média da expectativa de vida**:
+  - **Gráfico de linhas por ano:** evolução da média ao longo do tempo.
+  - **Mapa geográfico por país:** bolhas proporcionais à expectativa de vida.
+  - **Gráfico de barras por país:** ranking dos países e regiões.
+  - **Gráfico de linhas por ano e região:** comparação entre África, Américas, Ásia, Europa, América do Norte e Oceania.
+- **Principais resultados:**
+  - Até cerca de 1900 a média oscila entre 25 e 45 anos; depois cresce de forma contínua e passa de 70 anos nos anos 2020.
+  - **Mônaco, San Marino e Andorra** lideram o ranking.
+  - Europa, América do Norte e Oceania têm as maiores médias; a **África** continua com a menor, apesar do forte crescimento depois de 1950.
+  - Os visuais são interativos: ao clicar em um país (ex.: **San Marino**), o mapa e o gráfico de linhas são filtrados, mostrando a queda por volta de 2020 e a recuperação logo em seguida.
+- **Arquivo:** [`expectativa_de_vida.pbix`](expectativa_de_vida.pbix)
+
+<img width="1316" alt="Dashboard expectativa de vida – visão geral" src="imagens/expectativa_vida/dashboard_geral.png" />
+<img width="1316" alt="Dashboard expectativa de vida – filtrado por San Marino" src="imagens/expectativa_vida/dashboard_san_marino.png" />
+
+#### 9. Regressão Linear no Excel e no Google Colab: Horas de Estudo × Nota
 - **Objetivo:** treino para a prova. Verificar se mais horas de estudo levam a notas maiores usando regressão linear simples, primeiro no Excel e depois em Python no Google Colab.
 - **Base:** 200 alunos, com horas de estudo, horas de sono, frequência, notas anteriores e nota da prova.
 - **Entregáveis:**
@@ -147,14 +166,14 @@ Portfólio de projetos de análise de dados desenvolvidos na disciplina de **Inf
 <img width="1919" alt="Colab: análise dos resíduos" src="imagens/regressao_horas_estudo/colab_4.png" />
 <img width="1919" alt="Colab: previsões e conclusão" src="imagens/regressao_horas_estudo/colab_5.png" />
 
-#### 9. Prova – Regressão Linear Simples: Idade Média ao Casar
+#### 10. Prova – Regressão Linear Simples: Idade Média ao Casar
 - **Enunciado:** modelo de regressão linear simples com a idade média dos homens ao casar (x) e a idade média das mulheres ao casar (y).
 - **Objetivo:** medir a relação entre a idade dos homens e a das mulheres ao casar e estimar a idade média das mulheres a partir da idade média dos homens.
 - **Entregáveis:** gráfico de dispersão com linha de tendência, equação da reta, coeficiente de determinação (R²) e interpretação dos resultados.
 
 <img width="1919" height="1015" alt="Prova regressão idade ao casar" src="https://github.com/user-attachments/assets/6f52b96a-6a29-46b9-bc4c-5a3432374b3b" />
 
-#### 10. Prova – Dashboard de Investimentos
+#### 11. Prova – Dashboard de Investimentos
 - **Enunciado:** construir um relatório (dashboard) com, no mínimo, três visualizações diferentes:
   - mapa geográfico mostrando onde há o maior número de investimentos;
   - visualização relacionando município e setor econômico envolvido;
