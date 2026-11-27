@@ -59,7 +59,7 @@ file:///D:/informatica/aplicacao_do_power_bi_para_aprimoramento_da_gestao_turma_
 <img width="1116" height="791" alt="Captura de tela 2026-11-03 212850" src="https://github.com/user-attachments/assets/5c2936ea-6d04-41ca-91e8-1dd02736b2d1" />
 <img width="1118" height="790" alt="Captura de tela 2026-11-03 212902" src="https://github.com/user-attachments/assets/d74d068b-8bdd-43da-8ec2-1263b3a5ba90" />
 
-#### 7. Regressão linear no Excel treinamento para a prova
+#### 7. Regressão linear no Excel, horas de estudo x notas (treinamento para a prova)
 - **Objetivo:**
 - **Entregáveis:**
 
