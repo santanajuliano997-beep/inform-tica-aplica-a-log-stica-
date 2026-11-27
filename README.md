@@ -59,17 +59,27 @@ file:///D:/informatica/aplicacao_do_power_bi_para_aprimoramento_da_gestao_turma_
 <img width="1116" height="791" alt="Captura de tela 2026-11-03 212850" src="https://github.com/user-attachments/assets/5c2936ea-6d04-41ca-91e8-1dd02736b2d1" />
 <img width="1118" height="790" alt="Captura de tela 2026-11-03 212902" src="https://github.com/user-attachments/assets/d74d068b-8bdd-43da-8ec2-1263b3a5ba90" />
 
+#### 7. Regressão linear no Excel treinamento para a prova
+- **Objetivo:**
+- **Entregáveis:**
 
-#### 7. Prova modelo de regressão linear simples com os dados referentes a: idade média dos
+  <img width="1919" height="1030" alt="Captura de tela 2026-11-26 214119" src="https://github.com/user-attachments/assets/91ef388e-a5e9-4070-bc65-edfb1ff4ba1f" />
+
+
+#### 8. Prova modelo de regressão linear simples com os dados referentes a: idade média dos
+- **Objetivo:**
+- **Entregáveis:**
 homens ao casar (x) e Idade média das mulheres ao casar(y)
 
 <img width="1919" height="1015" alt="Captura de tela 2026-11-13 202858" src="https://github.com/user-attachments/assets/6f52b96a-6a29-46b9-bc4c-5a3432374b3b" />
 
 
-#### 8. Prova Construa um relatório (dashboard) que contenha, no mínimo, três visualizações diferentes, sendo:
+#### 9. Prova Construa um relatório (dashboard) que contenha, no mínimo, três visualizações diferentes, sendo:
 - mapa geográfico mostrando onde há o maior número de investimentos
 - visualização relacionando município com  setor econômico envolvido
 - visualização de sua livre escolha
+- **Objetivo:**
+- **Entregáveis:**
 
  
 
