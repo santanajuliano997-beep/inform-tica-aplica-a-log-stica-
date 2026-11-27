@@ -4,6 +4,8 @@ Portfólio de projetos de análise de dados desenvolvidos na disciplina de **Inf
 
 `Excel` | `Power BI` | `Python` | `Google Colab` | `Regressão Linear` | `Dados Abertos`
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juliano%20Santana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliano-santana-776992249)
+
 ---
 
 ## 🗂️ Sumário
